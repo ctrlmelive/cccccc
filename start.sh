@@ -7,8 +7,7 @@ ParameterSSENCYPT=chacha20-ietf-poly1305
 CADDYIndexPage=https://raw.githubusercontent.com/caddyserver/dist/master/welcome/index.html
 
 # download execution
-wget "https://caddyserver.com/api/download?os=linux&arch=amd64" -O caddy
-wget "https://github.com/XTLS/Xray-core/releases/latest/download/Xray-linux-64.zip" -O xray-linux-64.zip
+
 unzip -o xray-linux-64.zip && rm -rf xray-linux-64.zip
 chmod +x caddy xray
 
