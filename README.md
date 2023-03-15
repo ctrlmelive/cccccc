@@ -30,3 +30,8 @@ vless 性能更加优秀，占用资源更少。
     *路径：/$AUUID-vless // 默认vless使用/$AUUID-vless，vmess使用/$AUUID-vmess，Trojan使用/$AUUID-Trojan
 
     *底层传输安全：tls
+## Deploy in under 10 seconds
+
+[![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://deploy.cyclic.app/)
+- Sets up instant continuous deployment on `git push`
+- Realtime backend logs and API request monitoring
